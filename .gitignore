@@ -1,0 +1,4 @@
+/tests
+*.pyc
+*.sublime-project
+*.sublime-workspace
