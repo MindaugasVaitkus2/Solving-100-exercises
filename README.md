@@ -41,6 +41,7 @@ Most of them require building programs that do certain actions, some require fix
         ```
         pip install glob2
         ```
+---
 
 ## Table of Contents for Exercises
 
