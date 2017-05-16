@@ -42,13 +42,28 @@ Most of them require building programs that do certain actions, some require fix
     pip install glob2
 
     ```
+
+- Exercise 99 and 100:
+
+    ```
+    python3 -m venv flask
+    flask/bin/pip install flask
+    ```
+
 ---
 
 :exclamation: For Exercise 98 I used Python 3 because:
 [tkdocs](http://www.tkdocs.com/tutorial/install.html)
 > Tkinter are included with all standard distributions on Mac OS.
 > If you're a masochist and want to read about other Tcl/Tk options and variations and how they interact with Python, see the Mac Tcl/Tk page at python.org.
+
 :anguished:
+
+---
+
+My total points is 216! [Advanced level](https://www.udemy.com/python-video-workbook/learn/v4/t/lecture/6316344?start=0), according to the course! :sparkles: 
+
+---
 
 ## Table of Contents for Exercises
 
